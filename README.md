@@ -1,5 +1,5 @@
 # sklearn-semi
-This code was developed as a part of my [Medium Story](https://medium.com/@caiocarneloz/a-simple-introduction-to-semi-supervised-learning-e20b2fe29ca0) about semi-supervised learning concepts and usage with scikit-learn.
+This code was developed as a part of my [Medium Story](https://medium.com/@caiocarneloz/a-simple-introduction-to-semi-supervised-learning-e20b2fe29ca0) at [Level Up Coding](https://levelup.gitconnected.com/) about semi-supervised learning concepts and usage with scikit-learn.
 
 ## Getting Started
 #### Dependencies
